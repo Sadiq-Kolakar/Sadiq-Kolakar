@@ -40,7 +40,6 @@ An e-commerce platform empowering low-earning craftsmen and artisans by providin
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/sadiq-kolakar/) - Sadiq Kolakar
-- 📸 [Instagram](https://www.instagram.com/sadiq_kolakar) - @sadiq_kolakar
 - 📧 Email - sadiqrbkolkar0395@gmail.com
 
 ---
