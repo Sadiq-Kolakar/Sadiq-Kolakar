@@ -151,7 +151,7 @@ Offline sign language interpreter using computer vision. Webcam → gesture → 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sadiq-Kolakar&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadiq-Kolakar&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
