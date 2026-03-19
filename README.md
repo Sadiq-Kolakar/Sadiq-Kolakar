@@ -18,14 +18,35 @@
 
 ## `// WHO AM I`
 
-```
+<table>
+<tr>
+<td valign="top" width="55%">
+   
+  ```
 Name     : Sadiq Kolakar
-Role     : 2nd Year CSE Student  →  Future Software Engineer
-Location : Karnataka, India
-Focus    : Full Stack  ·  AI-Integrated Systems  ·  Problem Solving
-Status   : Building in public. Learning in overdrive.
-```
 
+Year     : 2nd Year CSE
+
+Batch    : 2024-28 
+
+College  : SIT Tumakuru
+
+Learning : DSA  ·  Full Stack  ·  AI Apps
+
+Building : Projects that actually do something useful
+
+Status   : Student by day  ·  Figuring it out. 
+```
+  
+</td>
+   
+
+
+<td valign="center" width="45%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
 ---
 
 ## `// ARSENAL`
