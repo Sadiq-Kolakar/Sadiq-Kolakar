@@ -47,6 +47,7 @@ Status   : Student by day  ·  Figuring it out.
 </td>
 </tr>
 </table>
+
 ---
 
 ## `// ARSENAL`
