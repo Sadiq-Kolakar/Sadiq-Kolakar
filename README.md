@@ -25,7 +25,7 @@
   ```
 Name     : Sadiq Kolakar
 
-Year     : 2nd Year CSE
+Year     : 3rd Year CSE
 
 Batch    : 2024-28 
 
