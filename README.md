@@ -1,23 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0c0c1d,100:0f172a&height=240&section=header&text=SADIQ%20KOLAKAR&fontSize=75&fontColor=f1f5f9&fontAlignY=45&desc=Engineer%20%E2%80%94%20Builder%20%E2%80%94%20Craftsman&descSize=17&descColor=475569&descAlignY=67&animation=twinkling" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=%24+sudo+run+build-the-future.sh;CSE+%40+SIT+Tumakuru+%7C+VTU+%E2%80%94+Batch+2024-28;Full+Stack+Development+%2B+AI+Integration;Open+to+%3A+Internships+%26+Collaborations;The+Builder%27s+Codex+%E2%80%94+Chapter+II+%5BIn+Progress%5D)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sadiq-Kolakar&style=for-the-badge&color=22d3ee&labelColor=0d1117&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
----
-
 <h1 align="center">Sadiq Kolakar</h1>
-<p align="center"><i>sadiq-kolakar</i></p>
 
 ```
 
