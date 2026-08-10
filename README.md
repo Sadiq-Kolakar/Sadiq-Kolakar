@@ -3,6 +3,8 @@
 
 # Hi, I'm Sadiq 👋
 
+<img src="https://www.gitskins.com/api/section/hero?username=Sadiq-Kolakar&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
+
 ### Computer Science & Engineering Student • Full Stack Developer • AI Enthusiast
 
 > Building software that solves real-world problems through AI, modern web technologies, and scalable system design.
@@ -27,6 +29,8 @@ Rather than only learning theory, I prefer building real projects—from hackath
 - 🏗 Software Engineering & System Design
 - 🚀 Building impactful open-source projects
 
+<div align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=Sadiq-Kolakar&theme=github-dark&style=aura" alt="GitSkins Animated Stats" width="860" /></div>
 ---
 
 ## `// CONNECT`
@@ -230,16 +234,12 @@ My goal isn't simply to write code that works, but to create software that is **
 ---
 
 <div align="center">
+  
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=Sadiq-Kolakar&theme=github-dark&style=aura)
 
 ![](https://komarev.com/ghpvc/?username=Sadiq-Kolakar&color=0e75b6&style=for-the-badge)
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=120&section=footer"/>
-
-### Crafted with curiosity.
-### Refined through iteration.
-### Always under construction.
-
 </div>
-```
